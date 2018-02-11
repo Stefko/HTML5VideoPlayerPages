@@ -11,7 +11,7 @@
 	
 /* SITE */
 
-	Last update: 11-02-2018 - 21:36:03 GMT+0100
+	Last update: 11-02-2018 - 23:23:03 GMT+0100
 	Language: English
 	Standards: HTML5, CSS3, PHP, and lot of coffea
 	Components: jQuery
